@@ -84,6 +84,7 @@ This project is deployed using **Streamlit Cloud**.
 2. Connect repository to Streamlit Cloud
 3. Deploy `app.py`
 4. App will be live online
+   https://smsspamdetection-ef5hywtpgzpa7b3dmlndyv.streamlit.app/
 
 ---
 
