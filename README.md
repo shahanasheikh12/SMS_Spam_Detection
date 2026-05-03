@@ -97,7 +97,7 @@ This project is deployed using **Streamlit Cloud**.
 ---
 
 ##  Screenshots
-<img width="1013" height="612" alt="Screenshot 2026-05-02 191539" src="https://github.com/user-attachments/assets/ea9ec8a0-8db3-4988-bde6-181006f103e5" />
+<img width="800" height="500" alt="Screenshot 2026-05-02 191539" src="https://github.com/user-attachments/assets/ea9ec8a0-8db3-4988-bde6-181006f103e5" />
 
 
 ---
@@ -128,5 +128,4 @@ This project is licensed under the MIT License.
 * Streamlit Community
 
 ---
-# SMS_Spam_Detection
-An SMS spam detection model uses machine learning to classify messages as spam or legitimate. It analyzes text patterns, keywords, and sender behavior using techniques like NLP and algorithms such as Naive Bayes or SVM to improve filtering accuracy and protect users from unwanted messages.
+
