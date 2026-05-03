@@ -99,6 +99,9 @@ This project is deployed using **Streamlit Cloud**.
 ##  Screenshots
 <img width="800" height="500" alt="Screenshot 2026-05-02 191539" src="https://github.com/user-attachments/assets/ea9ec8a0-8db3-4988-bde6-181006f103e5" />
 
+<img width="972" height="649" alt="Screenshot 2026-05-02 191434" src="https://github.com/user-attachments/assets/b5c4ed12-1883-4f76-a671-6be4e1c18afa" />
+
+
 
 ---
 
