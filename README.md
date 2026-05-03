@@ -5,7 +5,7 @@ It uses Natural Language Processing (NLP) techniques and is deployed as a **web 
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Detects whether an SMS is Spam or Not Spam
 * Uses Machine Learning for accurate classification
@@ -15,7 +15,7 @@ It uses Natural Language Processing (NLP) techniques and is deployed as a **web 
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 
 * Python 🐍
 * Scikit-learn
@@ -25,7 +25,7 @@ It uses Natural Language Processing (NLP) techniques and is deployed as a **web 
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── app.py              # Streamlit web application
@@ -37,7 +37,7 @@ It uses Natural Language Processing (NLP) techniques and is deployed as a **web 
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. User enters a text message
 2. Text is preprocessed (cleaning, tokenization, stopword removal)
@@ -47,9 +47,9 @@ It uses Natural Language Processing (NLP) techniques and is deployed as a **web 
 
 ---
 
-## 💻 Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```
 git clone https://github.com/your-username/sms-spam-detection.git
@@ -58,7 +58,7 @@ cd sms-spam-detection
 
 ---
 
-### 2️⃣ Install dependencies
+### 2️ Install dependencies
 
 ```
 pip install -r requirements.txt
@@ -66,7 +66,7 @@ pip install -r requirements.txt
 
 ---
 
-### 3️⃣ Run the application
+### 3️ Run the application
 
 ```
 streamlit run app.py
@@ -74,7 +74,7 @@ streamlit run app.py
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This project is deployed using **Streamlit Cloud**.
 
@@ -87,7 +87,7 @@ This project is deployed using **Streamlit Cloud**.
 
 ---
 
-## 📊 Model Information
+##  Model Information
 
 * Algorithm: Naive Bayes / Logistic Regression
 * Feature Extraction: TF-IDF Vectorization
@@ -96,32 +96,32 @@ This project is deployed using **Streamlit Cloud**.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 *Add your app screenshots here*
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 This system is for educational purposes only and may not always provide 100% accurate results.
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 🙌 Acknowledgements
+##  Acknowledgements
 
 * Kaggle Dataset
 * Scikit-learn Documentation
