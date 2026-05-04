@@ -17,7 +17,7 @@ It uses Natural Language Processing (NLP) techniques and is deployed as a **web 
 
 ##  Technologies Used
 
-* Python 🐍
+* Python 
 * Scikit-learn
 * Pandas & NumPy
 * NLTK (Natural Language Processing)
